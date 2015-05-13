@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+   id="MeuPlugin3"
+   iconfile="meuplugin3.png"
+   description="Meu Plugin 3"
+   tooltip="Este plugin serve para testes iniciais"
+   category="TCC"
+   classname="elielson.kettle.plugin3.MeuPlugin3Meta">
+   <libraries>
+      <library name="MeuPlugin3.jar"/>
+    </libraries>
+    
+   <localized_category>
+     <category locale="en_US">TCC</category>
+     <category locale="nl_NL">TCC</category>
+     <category locale="fr_FR">TCC</category>
+   </localized_category>
+   <localized_description>
+     <description locale="en_US">Meu Plugin 3</description>
+     <description locale="nl_NL">Meu Plugin 3</description>
+     <description locale="fr_FR">Meu Plugin 3</description>
+   </localized_description>
+   <localized_tooltip>
+     <tooltip locale="en_US">Este plugin serve para testes iniciais</tooltip>
+     <tooltip locale="nl_NL">Este plugin serve para testes iniciais</tooltip>
+     <tooltip locale="fr_FR">Este plugin serve para testes iniciais</tooltip>
+   </localized_tooltip>
+</plugin>

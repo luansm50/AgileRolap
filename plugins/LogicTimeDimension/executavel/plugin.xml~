@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+    id="MeuPlugin3"
+    iconfile="meuplugin3.png"
+    description="Plugins de Teste"
+    tooltip="Este plugin serva para testes iniciais"
+    categoria="TCC"
+    classname="elielson.kettle.plugin3.MeuPlugin3Meta">
+</plugin>

@@ -1,0 +1,1 @@
+Versão funcionou corretamente, leu os dados e os enviou para o proximo passo.
